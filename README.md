@@ -22,4 +22,4 @@ ___
 
 ***Signing up on the platform is easy and super-fast. Simply provide a suitable username or email and create a password to start***
 
-<img src="https://github.com/Dominique18apr/hexupload/blob/main/st.png"/>
+<img src="https://github.com/Dominique18apr/hexupload/blob/main/HU.png"/>
