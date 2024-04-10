@@ -1,5 +1,7 @@
 # hexupload
 
+<img src="https://github.com/Dominique18apr/hexupload/blob/main/HU.png"/>
+
 ___
 
 +  **For many people, file sharing involves attaching a document to an email and sending it to the right recipient. Although file sharing via email is easy, the challenge comes when you have bulky files requiring a larger storage space, and that’s where cloud storage is necessary**
@@ -20,3 +22,4 @@ ___
 
 ***Signing up on the platform is easy and super-fast. Simply provide a suitable username or email and create a password to start***
 
+<img src="https://github.com/Dominique18apr/hexupload/blob/main/st.png"/>
